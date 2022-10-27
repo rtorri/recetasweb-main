@@ -1,3 +1,18 @@
+
+* {
+    padding: 5px;
+    margin: 10px;
+    font-size: large 15px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2  {
+    border-bottom:1px dotted #9999CC;
+    text-decoration:none;
+
+}
+
 h1{
     text-align: center;
 }
@@ -6,9 +21,19 @@ h1{
 .p{
     color:rgb(246, 81, 81);
     font-style: italic;
-    font-size: 130%;
+    font-size: 330%;
 
 }
+
+
+
+
+
+
+
+<img src="avena.jpg" style="float:left"; padding-rigth:10px; width="100" height="50" alt="Galletitas de avena"/> 
+texto
+
 
 
 
@@ -19,3 +44,10 @@ element class.footer{
     
 }
 
+#imagenes{
+        width:100px;
+        background-position: 10px;
+      
+      
+
+}
