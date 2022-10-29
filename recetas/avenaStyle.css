@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+    border-color: blue;
+    }
+
+body, head, main, footer {
+    border: 3px red solid;
+    min-height: 50px;
+}
+
+/*{
+    
+    }/*
+    
