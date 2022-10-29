@@ -1,5 +1,5 @@
 
-* {
+* {  /*font-family:'Courier New', Courier, monospace;*/
     padding: 5px;
     margin: 10px;
     font-size: large 15px;
@@ -8,8 +8,12 @@
 }
 
 h2  {
-    border-bottom:1px dotted #9999CC;
-    text-decoration:none;
+    font-size: 1.6em;
+    color: rgb(165, 25, 25);
+    background-color: darkslateblue;
+    border-radius: 3px;
+    border: 1px solid #303030;
+    padding: 5px;
 
 }
 
