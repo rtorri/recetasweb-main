@@ -11,10 +11,19 @@ h2  {
     font-size: 1.6em;
     color: rgb(165, 25, 25);
     background-color: darkslateblue;
-    border-radius: 3px;
     border: 1px solid #303030;
     padding: 5px;
 
+}
+
+button {
+    font-size: 14px;
+    color: white;
+    background-color:darkolivegreen;
+    border-radius: 3px;
+    border: 1px solid #303030;
+    padding: 5px;
+    margin: 3px
 }
 
 h1{
