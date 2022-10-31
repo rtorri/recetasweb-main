@@ -1,14 +1,67 @@
 *{
-    margin: 0%;
-    padding: 0%;
+    margin: 10;
+    padding: 10;
     
-    border-color: blue;
+    border: 3px chocolate solid;
+    
+        
+    
     }
 
-body, head, main, footer {
-    border: 3px red solid;
-    min-height: 50px;
+    head{ 
+        
+    
+    }
+    
+h1{
+    text-align: center ;
+    border: 4px cyan solid;
+    max-width: none;
+    margin:  55px;
+    background-image: url(img/avena.jpg);
+    
+    
 }
+
+section{
+    background-image: url(/img/avena.jpg);
+    height: 200px;
+    width:auto
+       
+    
+
+}
+
+
+body {
+    border: 3px rgb(252, 181, 181) solid;
+    min-height: 50px;
+    margin: 0.5rem;
+}
+
+
+    
+
+ div{
+   border: 40px blue solid;   
+   letter-spacing: normal;
+   line-height: normal;
+
+}
+
+h3{ 
+    font-size:x-large;
+    position: static;
+    
+}
+
+
+footer{
+    /* traer de html index*/
+    
+}
+
+
 
 /*{
     
