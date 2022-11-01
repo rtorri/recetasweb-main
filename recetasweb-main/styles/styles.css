@@ -1,0 +1,151 @@
+
+* {  /*font-family:'Courier New', Courier, monospace;*/
+    padding: 0px;
+    margin: 0px;
+    font-size: large 15px;
+    border: 3px rgb(88, 98, 239) solid;
+    
+}
+
+
+
+        /* -------Header*/
+        h1 {
+            font-size: 1.6em;
+            border-radius: 3px;
+            border: 1px solid #ee5c5c;
+            padding: 60px; /*ancho del coso de arriba*/
+            background-color:#f5d3fe;
+
+
+            /*texto*/
+            
+            text-align: center;
+
+             font-family: Arial, Helvetica, sans-serif; 
+             font-size: 55px;
+            }
+    
+       
+
+
+
+
+    /*main*/
+    h2{
+
+    }
+     /*div */
+ /*sectionss que quiero que sean iguales*/
+
+ section {
+    background-color: #d5ffe5 ;
+    background-size: 50px 50px; 
+}
+
+.receta1{
+    margin-left: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 55px;
+}
+
+   /*--------imagen  */
+
+   .imag {
+    float: left;
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    
+  }
+
+
+  div {
+    border: black 3px solid;
+    overflow: auto;
+  }
+  
+  img {
+    float: left;
+  }
+
+
+ /*---------------y texto */
+
+     /*titulos de fotos*/
+  .p{
+    
+    font-style:normal;
+    font-size: 30px;
+    position: relative;
+    left: 100px;
+
+
+   }
+ /*color:#f4decb dificil*/
+ /*color f8eee7*/
+
+
+
+  /*-----footer background-color:#dcf3ed*/
+footer{
+    
+    background-color:#edafb8 ; 
+    
+    margin-left:70% ;
+    right:  0%;
+}
+
+a{
+    
+
+}
+
+
+h2  {
+    font-size: 1.6em;
+    color: rgb(165, 25, 25);
+    background-color: darkslateblue;
+    border: 1px solid #303030;
+    padding: 5px;
+
+}
+
+button {
+    font-size: 14px;
+    color: white;
+    background-color:darkolivegreen;
+    border-radius: 3px;
+    border: 1px solid #303030;
+    padding: 5px;
+    margin: 3px
+}
+
+
+
+
+
+
+
+
+
+
+element class.footer{
+    background-color: #eff;
+    box-shadow: 0 2px 4px rgb(91 91 91 / 70%);
+   
+    
+}
+
+#imagenes{
+        image-orientation:none;
+        background-size: 40px;
+        border-color: blueviolet;
+        border: 4px;
+        
+      
+
+}
+
+
